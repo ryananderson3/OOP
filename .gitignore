@@ -1,1 +1,8 @@
-.venv/
+myvenv/
+_pycache_/
+InsectClass.py
+InsectProgram.py
+BankAccountClass.py
+BankAccountProgram.py
+Coin Toss.py
+CoinClass.py
