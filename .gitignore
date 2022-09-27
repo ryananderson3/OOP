@@ -1,5 +1,5 @@
 myvenv/
-_pycache_/
+__pycache__/
 InsectClass.py
 InsectProgram.py
 BankAccountClass.py
